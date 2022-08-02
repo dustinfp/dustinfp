@@ -2,7 +2,7 @@
 - 👀 I’m interested in data driven stuff.
 - 🌱 I’m currently learning python and Vyper
 
-- 👂 I'm currently not looking to actively collaborate, but interested in brainstorming DeFi ideas.
+- 🧠 I'm currently not looking to actively collaborate, but interested in brainstorming DeFi ideas.
 
 
 <!---
